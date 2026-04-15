@@ -9,6 +9,3 @@
 [![Static Badge](https://img.shields.io/badge/Gustavo-Gmail?style=flat-square&logo=Gmail&logoColor=white&color=%23ed2921&link=mailto%3Aanjos.gu%40gmail.com%40gmail.com)
 ](mailto:anjos.gu@gmail.com@gmail.com)
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDoosAnjos&layout=compact&theme=dark&hide_border=true)
