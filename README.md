@@ -1,4 +1,4 @@
-<img align="right" width="400" height="225" src="https://64.media.tumblr.com/6e820724367cd1b03f8dcc0c1bd0ee91/cb095d9ff754f24f-c9/s400x600/ea06addc687c0ab00fb246ed183883bd468750ee.gifv">
+<img style="z-index: 1;" align="right" width="400" height="225" src="https://64.media.tumblr.com/6e820724367cd1b03f8dcc0c1bd0ee91/cb095d9ff754f24f-c9/s400x600/ea06addc687c0ab00fb246ed183883bd468750ee.gifv">
 
 # Hi 👋, I'm Gustavo
 ## A fullstack developer from Brazil
